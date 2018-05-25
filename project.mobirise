@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SITE BA3 EN",
-    "currentPage": "index.html",
+    "currentPage": "page5.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -38,7 +38,7 @@
     "screenshot": "screenshot.png",
     "favicon": "",
     "noImageResize": "true",
-    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='page6.html'>cookie policy</a>.",
+    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='page9.html'>cookie policy</a>.",
     "google-analytics": "",
     "siteUrl": "undefined"
   },
